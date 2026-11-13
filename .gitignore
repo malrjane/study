@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDE и редакторы
+.vscode/
+.idea/
+
+# Зависимости
+node_modules/
+dist/
+build/
